@@ -1,0 +1,11 @@
+[project]
+name = "skyblockshi"
+version = "0.1.0"
+description = "Hypixel Skyblock Bazaar Flipper Application"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "requests",
+    "python-dotenv",
+    "pyside6"
+]
