@@ -1,5 +1,5 @@
 [project]
-name = "skyblockshi"
+name = "PyZaar"
 version = "0.1.0"
 description = "Hypixel Skyblock Bazaar Flipper Application"
 readme = "README.md"

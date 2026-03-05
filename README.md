@@ -1,6 +1,6 @@
-# Skyblockshi - Hypixel Skyblock Bazaar Flipper
+# PyZaar - Hypixel Skyblock Bazaar Flipper
 
-Welcome to **Skyblockshi**, a desktop application built with Python and PySide6 designed to help Hypixel Skyblock players find the best items to flip on the Bazaar!
+Welcome to **PyZaar**, a desktop application built with Python and PySide6 designed to help Hypixel Skyblock players find the best items to flip on the Bazaar!
 
 This tool fetches real-time bazaar data from the Hypixel Skyblock API, processes the raw metrics into actionable insights (like margin percentages, volume stability, and spike detection), and presents it in a sleek, dark-themed, and highly filterable data grid.
 
@@ -27,11 +27,16 @@ To run this application, you need Python 3.13+ and the following external librar
 ## Setup and Installation
 
 1. **Install Dependencies**
-   Since you manage the project via `uv`, the dependencies have been added to your `pyproject.toml`. You can simply sync them:
+   If you manage the project via `uv`, the dependencies have been added to your `pyproject.toml`. You can simply sync them:
    ```bash
    uv sync
    ```
    *Alternatively, if you haven't synced yet, you can add them manually with:* `uv add requests python-dotenv pyside6`.
+
+   If you prefer using `pip`, you can install the required packages directly:
+   ```bash
+   pip install requests python-dotenv pyside6
+   ```
 
 2. **Configure Your API Key**
    Create or open the `.env` file in the root directory and add your Hypixel API key:
